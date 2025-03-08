@@ -1,0 +1,61 @@
+﻿Fruit,Disease,Fertilizer,Description,Preventive Measures
+Mango,Anthracnose,Copper Oxychloride 50% wf,"Apply a balanced NPK fertilizer such as 10:26:26 during flowering and fruiting stages to promote healthy growth and reduce disease susceptibility.
+Use well-rotted farmyard manure (FYM) or vermicompost to improve soil health and nutrient availability.
+Foliar application of zinc sulfate (0.5%) and boron (0.2%) can enhance resistance and fruit quality.","Apply copper oxychloride (0.3%) or copper hydroxide (0.3%) during active growth phases to suppress bacterial growth.
+Remove and destroy infected twigs, leaves, and fruits to reduce bacterial inoculum. Always use sterilized pruning tools.
+Implement drip irrigation to minimize water splash, which spreads the bacteria. "
+Mango,Bacterial Canker,Copper Sulpphate 47.15% + Mancozeb 30%,"Use fertilizers like 12:32:16 or 10:26:26 to ensure healthy growth and improve plant resistance to bacterial infections.
+Apply well-decomposed farmyard manure (FYM) or compost enriched with beneficial microbes for improved soil health.
+Incorporate potassium sulfate to enhance disease resistance in leaves and fruits.","Regularly prune infected branches and remove fallen leaves, flowers, and fruits to reduce fungal spread.
+Use drip irrigation to minimize water splash, which spreads fungal spores.
+Dip harvested fruits in hot water (50–55°C) for 5 minutes to eliminate fungal spores and improve shelf life."
+Banana,Cordana,Mancozeb,"Excessive nitrogen encourages rapid growth, which can make the plant more vulnerable to disease. Use balanced fertilizers with lower nitrogen content.
+Avoid applying fertilizers directly on leaves, as it can exacerbate fungal growth. Instead, focus on soil-based feeding.
+Adding well-composted organic matter can improve soil health and promote the plant’s natural resistance to diseases.","Carefully prune any affected leaves and dispose of them to reduce fungal spores in the environment.
+Use a fungicide specifically labeled for banana plants or Cordana leaf spot disease. Copper-based fungicides or systemic fungicides may be effective.
+Inspect the plant every few days for new signs of infection and continue to prune infected leaves."
+Mango,Cutting Weevil,Cyhalothrin 5% C ,"Use fertilizers like 12:32:16 or 10:26:26 to promote healthy plant growth and strengthen plant tissues.
+Incorporate potassium sulfate to enhance the tree's resistance to pest attacks and improve flowering.
+Add neem cake to the soil to act as a natural deterrent against pests like the mango cutting weevil.","Collect and destroy fallen fruits and debris under the tree to eliminate breeding grounds for weevils.
+Use sticky bands or grease bands around the trunk to prevent adult weevils from climbing the tree.
+Release natural enemies like entomopathogenic nematodes or apply Beauveria bassiana to reduce weevil populations."
+Mango,Die Back,Copper Oxychloride @ 0.3%,"Use potassium sulfate or potassium nitrate to strengthen the plant and prevent die-back symptoms.
+Foliar application of zinc sulfate (0.5%) and boron (0.2%) can help reduce stress and improve disease resistance.
+Foliar sprays of calcium nitrate (1%) and magnesium sulfate (0.5%) can improve plant health and reduce susceptibility to die-back.","Prune and remove infected branches at least 6 inches below the visible symptoms. Dispose of the infected material by burning or burying.
+Spray Copper oxychloride (0.3%) or Carbendazim (0.1%) after pruning to prevent fungal infections. Repeat sprays during the rainy season.
+Avoid prolonged drought or excessive watering, as stress conditions make plants more prone to die-back."
+Mango,Gall Midge,Navaliron 10% C,"Use well-rotted farmyard manure (FYM) or vermicompost enriched with beneficial microbes to improve soil health and plant vigor.
+Apply potassium sulfate to strengthen plant tissues and improve pest resistance.
+Incorporate neem cake into the soil as a natural pest deterrent and to improve soil quality.","Encourage natural predators like parasitoids and predators (e.g., Platygaster oryzae) that attack gall midge larvae.
+Spray Lambda-cyhalothrin (0.005%) or Imidacloprid (0.005%) at the bud initiation stage to control gall midge populations.
+Prune damaged and infested shoots regularly to reduce pest hiding spots and improve air circulation."
+Banana,Healthy Banana,No disease detected.,"Apply a balanced fertilizer, such as NPK 10-10-10, every 4–6 weeks during the growing season.
+Incorporate organic compost around the base of the plant to improve soil nutrients and retain moisture.
+Avoid over-fertilizing, as it can lead to salt buildup and harm the roots.","Inspect leaves and stems weekly for any signs of pests, discoloration, or unusual spots.
+Water in the morning to prevent fungal infections from excess moisture overnight.
+Mulch around the base to regulate soil temperature and prevent weeds."
+Mango,Healthy Mango,No disease detected.,"Apply a balanced fertilizer, such as NPK 10-10-10, every 4–6 weeks during the growing season.
+Incorporate organic compost around the base of the plant to improve soil nutrients and retain moisture.
+Avoid over-fertilizing, as it can lead to salt buildup and harm the roots.","Inspect leaves and stems weekly for any signs of pests, discoloration, or unusual spots.
+Water in the morning to prevent fungal infections from excess moisture overnight.
+Mulch around the base to regulate soil temperature and prevent weeds."
+Banana,Pestalotiopsis,Carbendazim,"High nitrogen levels can stimulate excessive growth, which might weaken the plant’s defenses. Use a balanced fertilizer with moderate nitrogen content.
+Use a fungicide specifically labeled for banana plants or Cordana leaf spot disease. Copper-based fungicides or systemic fungicides may be effective.
+Avoid overhead watering, which can spread spores onto healthy leaves. Instead, water at the base of the plant.","Remove and discard any leaves showing signs of the disease, including blackened spots or lesions, to reduce fungal spread.
+Use a fungicide that targets Pestalotiopsis, such as a copper-based fungicide or one containing thiophanate-methyl or propiconazole. Apply it as directed to both the leaves and soil.
+Ensure that your banana plants are spaced adequately to allow for proper airflow, reducing humidity around the plant and helping to prevent fungal growth."
+Mango,Powdery Mildew,Navaliron 10% C,"Use well-rotted farmyard manure (FYM) or vermicompost enriched with beneficial microbes to improve soil health and plant vigor.
+Apply potassium sulfate to strengthen plant tissues and improve pest resistance.
+Incorporate neem cake into the soil as a natural pest deterrent and to improve soil quality.","Encourage natural predators like parasitoids and predators (e.g., Platygaster oryzae) that attack gall midge larvae.
+Spray Lambda-cyhalothrin (0.005%) or Imidacloprid (0.005%) at the bud initiation stage to control gall midge populations.
+Prune damaged and infested shoots regularly to reduce pest hiding spots and improve air circulation."
+Banana,Sigatoka,Kocide/Copper Hydroxide,"Apply a balanced fertilizer with moderate nitrogen levels (e.g., NPK 15-15-15) to help your plant recover. High nitrogen levels can encourage fungal growth, so use fertilizers with a well-rounded nutrient profile.
+Potassium can help strengthen the plant’s cell walls and improve its ability to resist diseases. Consider adding a fertilizer with higher potassium content.
+Do not apply fertilizers directly on leaves as moisture from the fertilizer can encourage fungal spores to spread.","Prune and dispose of leaves with visible black lesions to limit the spread of the fungus. Always sanitize pruning tools to prevent transmission.
+Use fungicides labeled for Black Sigatoka, such as copper-based fungicides or systemic fungicides containing azoxystrobin or propiconazole. Apply these to both the leaves and soil as recommended."",
+Space plants adequately to ensure good airflow, which helps to dry out moisture on leaves and reduce fungal growth."
+Mango,Sooty Mould,"Black fungal Copper Oxychloride @ 0.3%coating on leaves, often due to insect pests.","Use potassium sulfate or potassium nitrate to strengthen the plant and prevent die-back symptoms.
+Foliar application of zinc sulfate (0.5%) and boron (0.2%) can help reduce stress and improve disease resistance.
+Foliar sprays of calcium nitrate (1%) and magnesium sulfate (0.5%) can improve plant health and reduce susceptibility to die-back.","Prune and remove infected branches at least 6 inches below the visible symptoms. Dispose of the infected material by burning or burying.
+Spray Copper oxychloride (0.3%) or Carbendazim (0.1%) after pruning to prevent fungal infections. Repeat sprays during the rainy season.
+Avoid prolonged drought or excessive watering, as stress conditions make plants more prone to die-back."

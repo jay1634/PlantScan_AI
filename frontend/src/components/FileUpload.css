@@ -1,0 +1,96 @@
+.file-upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+    
+    max-width: 80%;
+    margin: auto;
+}
+
+.title {
+    font-size: 3.0rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.divider {
+    width: 100vw; /* Full width of the screen */
+    height: 4px; /* Increased thickness */
+    background-color: #55AE36; /* Blue color for visibility */
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.9); /* Shadow effect */
+    margin: 20px 0; /* Adjust spacing */
+}
+
+.dividers {
+   
+    background-color: #55AE36; /* Blue color for visibility */
+
+}
+
+
+
+
+.button-container {
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */
+    gap: 10px;
+    width: 100%; /* Ensure buttons take full width */
+    align-items: center;
+}
+
+.btn {
+    padding: 15px 20px; /* Same size for all buttons */
+    font-size: 16px;
+    border: none;
+    border-radius: 0; /* No rounded corners */
+    cursor: pointer;
+    font-weight: bold;
+    width: 240px; /* Set a uniform width */
+    text-align: center;
+}
+
+.file-btn, .camera-btn, .detect-btn {
+    background: #55AE36;
+    color: white;
+}
+
+.webcam-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.preview-container {
+    margin-top: 20px; /* Moves preview down */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.preview-img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.close-btn {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+  
+    
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+.detect-btn {
+    width: 200px; /* Same width as other buttons */
+    text-align: center;
+}
